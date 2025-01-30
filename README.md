@@ -30,7 +30,11 @@ Software:
 • Import BOTS V2 Dataset
 
 
+
+
 🧑‍💻Excercises- Investigating Web-based attacks
+
+
 
 • SQL Injection: Analyze web logs to detect potential SQL injection attempts.(Hint: Look for unusual characters or SQL keywords used in URI parameters, such as ' or 1=1.)
 
@@ -54,7 +58,10 @@ Software:
 
 
 
+
 🧑‍💻Excercises- Investigating Network-based attacks
+
+
 
 • Port Scanning: Detect port scanning activities in network logs.(Hint: Look for a large number of connection attempts from the same source IP to different destination ports within a short time frame.)
 
