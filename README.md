@@ -17,12 +17,16 @@ Software:
   Splunk Universal Forwarder
 
 « Lab Diagram »
+
 ![image](https://github.com/user-attachments/assets/af02b670-74e9-4e35-b03c-4f165a4a2093)
+
 
 </> Setting up Splunk SIEM on Ubuntu Server
 
 • Install Splunk Enterprise software on Ubuntu server
+
 • Install Splunk Security Essentials App
+
 • Import BOTS V2 Dataset
 
 
