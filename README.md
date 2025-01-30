@@ -2,30 +2,30 @@
 
 Splunk Home Lab
 
-« Overview »
+## « Overview »
 This home-lab focused on setting up Splunk SIEM and real-world use cases
 
 ![image](https://github.com/user-attachments/assets/83156f21-9f70-4bdc-8a13-177509153fbe)
 
-Requirements
-Hardware:
+## Requirements
+**Hardware**:
   Ubuntu Server 22.04(for Splunk Enterprise)
   Windows 11 Machine
 
-Software:
-  Splunk Enterprise)
-  Splunk Universal Forwarder
+**Software**:
+   [Splunk Enterprise]((https://www.splunk.com/en_us/download/splunk-enterprise.html )) 
+   Splunk Universal Forwarder
 
-« Lab Diagram »
+## « Lab Diagram »
 
 ![image](https://github.com/user-attachments/assets/af02b670-74e9-4e35-b03c-4f165a4a2093)
 
 
-</> Setting up Splunk SIEM on Ubuntu Server
+## </> Setting up Splunk SIEM on Ubuntu Server
 
 • Install Splunk Enterprise software on Ubuntu server
 
-• Install Splunk Security Essentials App
+• Install Splunk [Security Essentials App]((https://splunkbase.splunk.com/app/3435))
 
 • Import BOTS V2 Dataset
 
