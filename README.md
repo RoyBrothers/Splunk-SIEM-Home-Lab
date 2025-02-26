@@ -33,14 +33,16 @@ This home-lab focused on setting up Splunk SIEM and real-world use cases
 
 **1️⃣ Splunk Enterprise (Windows 11) Installation**
 
-Download and install Splunk Enterprise from Splunk Official Site.
 
-Set the receiving port ( Settings -> Forwarding and receiving ->Receive data -> add new -> 9997 -> save )
+• Download and install Splunk Enterprise from Splunk Official Site.
 
-Start Splunk and create an admin account.
+• Set the receiving port ( Settings -> Forwarding and receiving ->Receive data -> add new -> 9997 -> save )
+
+• Start Splunk and create an admin account.
 
 
 **2️⃣ Splunk Universal Forwarder (Ubuntu) Setup**
+
 
 • Download and install the Splunk Universal Forwarder.
 
