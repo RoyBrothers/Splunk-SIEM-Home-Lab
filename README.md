@@ -51,6 +51,7 @@ Start Splunk and create an admin account.
 ![image](https://github.com/user-attachments/assets/a82bad16-7a97-4143-b031-ae3933e769d6)
 
 
+
 ## ◆ Splunk web interface showing received logs: 
 ![image](https://github.com/user-attachments/assets/5ca7004c-715b-4e44-99ca-b105c9a05536)
 
