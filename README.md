@@ -60,7 +60,7 @@ This home-lab focused on setting up Splunk SIEM and real-world use cases
   
   • Add the Ubuntu Forwarder to Splunk as a data source.
   
-  • Verify the data in Splunk (Settings → Forwarder Management).
+  • Verify the data in Splunk (Settings -> Forwarder Management).
 
   • Set the receiving port ( Settings -> Forwarding and receiving ->Receive data -> add new -> 9997 -> save )
 
