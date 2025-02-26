@@ -32,13 +32,28 @@ This home-lab focused on setting up Splunk SIEM and real-world use cases
 ## 1. Splunk web interface showing received logs: 
 ![image](https://github.com/user-attachments/assets/5ca7004c-715b-4e44-99ca-b105c9a05536)
 
-## 2. Splunk Forwarder setup: 
+## ⚙️ Setup & Configuration
 
-i. Download and install the Splunk Universal Forwarder.
+**1️⃣ Splunk Enterprise (Windows 11) Installation**
 
-ii. Configure inputs.conf and outputs.conf to send logs to Splunk Server.
+Download and install Splunk Enterprise from Splunk Official Site.
+
+Start Splunk and create an admin account.
+
+**2️⃣ Splunk Universal Forwarder (Ubuntu) Setup**
+
+• Download and install the Splunk Universal Forwarder.
+
+• Configure inputs.conf and outputs.conf to send logs to Splunk Server.
 
 sudo /opt/splunkforwarder/bin/splunk enable boot-start
+
 sudo /opt/splunkforwarder/bin/splunk start
+
+
+
+
+
+
 
 
