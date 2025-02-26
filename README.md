@@ -31,30 +31,37 @@ This home-lab focused on setting up Splunk SIEM and real-world use cases
 
 ## ⚙️ Setup & Configuration
 
-**1️⃣ Splunk Enterprise (Windows 11) Installation**
+**1️⃣ Splunk Enterprise (Windows 11) Installation: **
 
 
-• Download and install Splunk Enterprise from Splunk Official Site.
+  • Download and install Splunk Enterprise from Splunk Official Site.
 
-• Set the receiving port ( Settings -> Forwarding and receiving ->Receive data -> add new -> 9997 -> save )
+  • Set the receiving port ( Settings -> Forwarding and receiving ->Receive data -> add new -> 9997 -> save )
 
-• Start Splunk and create an admin account.
-
-
-**2️⃣ Splunk Universal Forwarder (Ubuntu) Setup**
+  • Start Splunk and create an admin account.
 
 
-• Download and install the Splunk Universal Forwarder.
+**2️⃣ Splunk Universal Forwarder (Ubuntu) Setup: **
 
-• Configure inputs.conf and outputs.conf to send logs to Splunk Server.
+
+  • Download and install the Splunk Universal Forwarder.
+
+  • Configure inputs.conf and outputs.conf to send logs to Splunk Server.
 
 ![image](https://github.com/user-attachments/assets/5501a7f6-84f6-450a-b93b-a672bec676dc)
 
 ![image](https://github.com/user-attachments/assets/a82bad16-7a97-4143-b031-ae3933e769d6)
 
 
+**3️⃣ Connecting Forwarder to Splunk Server: **
+  
+  
+  • Add the Ubuntu Forwarder to Splunk as a data source.
+  
+  • Verify the data in Splunk (Settings → Forwarder Management).
+  
 
-## ◆ Splunk web interface showing received logs: 
+##  ⌂ Splunk web interface showing received logs: 
 ![image](https://github.com/user-attachments/assets/5ca7004c-715b-4e44-99ca-b105c9a05536)
 
 
