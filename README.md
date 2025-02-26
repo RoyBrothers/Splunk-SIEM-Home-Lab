@@ -17,7 +17,7 @@ This home-lab focused on setting up Splunk SIEM and real-world use cases
 
 ## Requirements
 **Hardware**:
-  Ubuntu Server 20.04.6 LTS 
+  Ubuntu OS 20.04.6 LTS 
   Windows 11 Machine
 
 **Software**:
