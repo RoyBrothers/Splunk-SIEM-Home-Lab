@@ -10,7 +10,9 @@ This home-lab focused on setting up Splunk SIEM and real-world use cases
 ## 📌 Project Overview 
 
 **1. Splunk Enterprise installed on Windows 11**
+
 **2. Splunk Universal Forwarder installed on Ubuntu VM**
+
 **3. Logs are forwarded from Ubuntu to Splunk for analysis**
 
 ## Requirements
