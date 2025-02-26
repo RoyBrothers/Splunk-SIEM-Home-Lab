@@ -31,7 +31,7 @@ This home-lab focused on setting up Splunk SIEM and real-world use cases
 
 ## ⚙️ Setup & Configuration
 
-**1️⃣ Splunk Enterprise (Windows 11) Installation: **
+## 1️⃣ Splunk Enterprise (Windows 11) Installation: 
 
 
   • Download and install Splunk Enterprise from Splunk Official Site.
@@ -41,7 +41,9 @@ This home-lab focused on setting up Splunk SIEM and real-world use cases
   • Start Splunk and create an admin account.
 
 
-**2️⃣ Splunk Universal Forwarder (Ubuntu) Setup: **
+
+
+## 2️⃣ Splunk Universal Forwarder (Ubuntu) Setup: 
 
 
   • Download and install the Splunk Universal Forwarder.
@@ -53,12 +55,15 @@ This home-lab focused on setting up Splunk SIEM and real-world use cases
 ![image](https://github.com/user-attachments/assets/a82bad16-7a97-4143-b031-ae3933e769d6)
 
 
-**3️⃣ Connecting Forwarder to Splunk Server: **
+
+
+## 3️⃣ Connecting Forwarder to Splunk Server: 
   
   
   • Add the Ubuntu Forwarder to Splunk as a data source.
   
   • Verify the data in Splunk (Settings → Forwarder Management).
+
   
 
 ##  ⌂ Splunk web interface showing received logs: 
