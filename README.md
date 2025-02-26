@@ -46,7 +46,11 @@ Start Splunk and create an admin account.
 
 • Configure inputs.conf and outputs.conf to send logs to Splunk Server.
 
-![image](https://github.com/user-attachments/assets/398c2359-4da2-4951-90b9-f7b92f951c08)
+![image](https://github.com/user-attachments/assets/5501a7f6-84f6-450a-b93b-a672bec676dc)
+
+![image](https://github.com/user-attachments/assets/a82bad16-7a97-4143-b031-ae3933e769d6)
+
+
 
 
 
