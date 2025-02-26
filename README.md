@@ -36,8 +36,6 @@ This home-lab focused on setting up Splunk SIEM and real-world use cases
 
   • Download and install Splunk Enterprise from Splunk Official Site.
 
-  • Set the receiving port ( Settings -> Forwarding and receiving ->Receive data -> add new -> 9997 -> save )
-
   • Start Splunk and create an admin account.
 
 
@@ -63,6 +61,8 @@ This home-lab focused on setting up Splunk SIEM and real-world use cases
   • Add the Ubuntu Forwarder to Splunk as a data source.
   
   • Verify the data in Splunk (Settings → Forwarder Management).
+
+  • Set the receiving port ( Settings -> Forwarding and receiving ->Receive data -> add new -> 9997 -> save )
 
   
 
