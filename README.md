@@ -29,16 +29,16 @@ This home-lab focused on setting up Splunk SIEM and real-world use cases
 ![image](https://github.com/user-attachments/assets/af02b670-74e9-4e35-b03c-4f165a4a2093)
 
 
-## 1. Splunk web interface showing received logs: 
-![image](https://github.com/user-attachments/assets/5ca7004c-715b-4e44-99ca-b105c9a05536)
-
 ## ⚙️ Setup & Configuration
 
 **1️⃣ Splunk Enterprise (Windows 11) Installation**
 
 Download and install Splunk Enterprise from Splunk Official Site.
 
+Set the receiving port ( Settings -> Forwarding and receiving ->Receive data -> add new -> 9997 -> save )
+
 Start Splunk and create an admin account.
+
 
 **2️⃣ Splunk Universal Forwarder (Ubuntu) Setup**
 
@@ -51,12 +51,7 @@ Start Splunk and create an admin account.
 ![image](https://github.com/user-attachments/assets/a82bad16-7a97-4143-b031-ae3933e769d6)
 
 
-
-
-
-
-
-
-
+## Splunk web interface showing received logs: 
+![image](https://github.com/user-attachments/assets/5ca7004c-715b-4e44-99ca-b105c9a05536)
 
 
