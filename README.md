@@ -46,9 +46,8 @@ Start Splunk and create an admin account.
 
 • Configure inputs.conf and outputs.conf to send logs to Splunk Server.
 
-sudo /opt/splunkforwarder/bin/splunk enable boot-start
+![image](https://github.com/user-attachments/assets/398c2359-4da2-4951-90b9-f7b92f951c08)
 
-sudo /opt/splunkforwarder/bin/splunk start
 
 
 
