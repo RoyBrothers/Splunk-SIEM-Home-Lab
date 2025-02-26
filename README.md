@@ -26,7 +26,7 @@ This home-lab focused on setting up Splunk SIEM and real-world use cases
 
 ## « Lab Diagram »
 
-![image](https://github.com/user-attachments/assets/af02b670-74e9-4e35-b03c-4f165a4a2093)
+![image](https://github.com/user-attachments/assets/45e080df-f1a5-4175-af0e-7fe4e45918c7)
 
 
 ## ⚙️ Setup & Configuration
